@@ -3,7 +3,7 @@
 Code, benchmark and result files for the paper
 
 **AmbiOverpass: Execution-Aware Ambiguity Topology and Shapley-Guided Planning for Text-to-OverpassQL Generation**
-Haoran Luo, Qi Shao ([ORCID](https://orcid.org/0009-0001-0493-7840)), Chen Jason Zhang, Yuanfeng Song, Raymond Chi-Wing Wong.
+Haoran Luo, Qi Shao, Chen Jason Zhang, Yuanfeng Song, Raymond Chi-Wing Wong.
 
 Project page and online appendix: https://ambioverpass.github.io/
 
